@@ -1,0 +1,30 @@
+
+ucsharpsquid:S3776Ø"RRefactor this method to reduce its Cognitive Complexity from 63 to the 15 allowed.(Ôá‡ııÿÿÿÿ
+pcsharpsquid:S3776¿"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(€€Àô
+pcsharpsquid:S3776î"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(È¯ĞË
+pcsharpsquid:S3776¤"RRefactor this method to reduce its Cognitive Complexity from 37 to the 15 allowed.(Áì‹¬
+ucsharpsquid:S3776„	"RRefactor this method to reduce its Cognitive Complexity from 47 to the 15 allowed.(ĞËóûÿÿÿÿ
+qcsharpsquid:S3776´
+"SRefactor this method to reduce its Cognitive Complexity from 161 to the 15 allowed.(Œãºà
+gcsharpsquid:S1104ë"DMake this field 'private' and encapsulate it in a 'public' property.(Ÿ’¤ıÿÿÿÿ
+Mcsharpsquid:S1066Í"/Merge this if statement with the enclosing one.(»ñŠğ
+Ycsharpsquid:S1199è"6Extract this nested code block into a separate method.(ÒÌâ–øÿÿÿÿ
+qcsharpsquid:S3265ë"SMark enum 'DebugLogFilter' with 'Flags' attribute or remove this bitwise operation.(±©‡Ë
+vcsharpsquid:S3265ì"SMark enum 'DebugLogFilter' with 'Flags' attribute or remove this bitwise operation.(ÂåŞ™øÿÿÿÿ
+qcsharpsquid:S3265í"SMark enum 'DebugLogFilter' with 'Flags' attribute or remove this bitwise operation.(”øÛ¨
+qcsharpsquid:S3265Ğ"SMark enum 'DebugLogFilter' with 'Flags' attribute or remove this bitwise operation.(Ãî½ì
+vcsharpsquid:S3265Ò"SMark enum 'DebugLogFilter' with 'Flags' attribute or remove this bitwise operation.(„úÖéıÿÿÿÿ
+qcsharpsquid:S3265İ"SMark enum 'DebugLogFilter' with 'Flags' attribute or remove this bitwise operation.(É­Øö
+vcsharpsquid:S3265ß"SMark enum 'DebugLogFilter' with 'Flags' attribute or remove this bitwise operation.(®ğ¹Öşÿÿÿÿ
+vcsharpsquid:S3265ê"SMark enum 'DebugLogFilter' with 'Flags' attribute or remove this bitwise operation.(Şúæ®úÿÿÿÿ
+qcsharpsquid:S3265ì"SMark enum 'DebugLogFilter' with 'Flags' attribute or remove this bitwise operation.(Ù—‡Å
+qcsharpsquid:S3265ú
+"SMark enum 'DebugLogFilter' with 'Flags' attribute or remove this bitwise operation.(æ‘Â¼
+vcsharpsquid:S3265û
+"SMark enum 'DebugLogFilter' with 'Flags' attribute or remove this bitwise operation.(æÊ±Ÿşÿÿÿÿ
+qcsharpsquid:S3265ü
+"SMark enum 'DebugLogFilter' with 'Flags' attribute or remove this bitwise operation.(¨Ô¤
+Ecsharpsquid:S1905¾	"'Remove this unnecessary cast to 'Text'.(Î³Ğ
+Mcsharpsquid:S1905µ"/Remove this unnecessary cast to 'DebugLogItem'.(”ÏÊœ
+dcsharpsquid:S1117û"ARename 'isInSearchMode' which hides the field with the same name.(Á¹×Ôûÿÿÿÿ
+<csharpsquid:S125‹"Remove this commented out code.(¼÷””

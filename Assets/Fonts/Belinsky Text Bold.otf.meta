@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: a9668e5196c9d7e4883e4d5e6fd11aa8
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Belinsky Text
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 63f3c11db43f59b4897aa297f3513319, type: 3}
+  - {fileID: 12800000, guid: 32e9410cbf6d5a247a10dd6cd83a292f, type: 3}
+  - {fileID: 12800000, guid: 86a874a457b459d49bb5624802a66e7e, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
